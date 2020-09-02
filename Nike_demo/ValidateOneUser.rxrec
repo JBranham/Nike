@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="1d55f24b-1763-41cd-9a10-ac1fab76f270"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="ValidateOneUser"
+	namespace="Nike_demo">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<validationitem
+		action="AttributeEqual"
+		duration="100ms"
+		enabled="True"
+		optional="False"
+		searchpropertyid="71f48d56-2674-44af-8ad2-fef84cef17f4">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="39a26cd8-c6e3-4b2c-9f0d-129eb8b5986c"
+			sourcename="ElementTree">
+				<element
+				capabilities="accessible"
+				dontcache="False"
+				enabled="True"
+				flavor="msaa"
+				hasfocus="False"
+				index="0"
+				prefcap="text"
+				rect="821,700,70,17"
+				role="text"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="caption"
+					type="System.String">
+						VIP count: 1
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						VIP count: 1
+					</attribute>
+					<attribute
+					name="accessiblename"
+					type="System.String">
+						VIP count: 1
+					</attribute>
+					<attribute
+					name="accessiblerole"
+					type="System.Windows.Forms.AccessibleRole, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						StaticText
+					</attribute>
+					<attribute
+					name="accessiblestate"
+					type="System.Windows.Forms.AccessibleStates, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						ReadOnly
+					</attribute>
+					<attribute
+					name="accessiblevalue"
+					type="System.String">
+					</attribute>
+				</element>
+				<path>
+					/form[@controlname='formVipApplication']/?/?/text[@accessiblename='VIP count: 1']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="8e9449b7-514b-4212-a5d6-506724d2ef6d">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCADMAMwDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDmqKKK
+ACiiigAooooAKKKKAO10H/kDW/0P8zVi+/1Kf9dov/Ri1X0H/kDW/wBD/M1Yvv8AUp/12i/9GLQB
+cooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAPNqKKKACiiigAooooAKKKKAO10H/kDW/0
+P8zVi+/1Kf8AXaL/ANGLVfQf+QNb/Q/zNWL7/Up/12i/9GLQBcooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKAPNqKKKACiiigAooooAKKKKAO10H/AJA1v9D/ADNT3/8AqF/67Rf+jFqDQf8A
+kDW/0P8AM1Pf/wDHuv8A12i/9GLQBNPOkERkkbAH5n2p0bl0DbWXPZuoqK5t1uEAJKsvKuOqmpIw
+yoA7BmHVgMZoAh3v/eb86N7/AN5vzptFADt7/wB5vzo3v/eb86bRQA7e/wDeb86N7/3m/Om0UAO3
+v/eb86N7/wB5vzptFADt7/3m/Oje/wDeb86bRQA7e/8Aeb86N7/3m/Om0UAO3v8A3m/Oje/95vzp
+tFAHCUUUUAFFFFABRRRQAUUUUAdroP8AyBrf6H+Zq7NEk8ZjkBKkg8Eg5ByOR7iqWg/8ga3+h/ma
+vSHETEehoAg+xRf37j/wIk/+Ko+xRf37j/wIk/8Aiqft92/76NG33b/vo0AM+xRf37j/AMCJP/iq
+PsUX9+4/8CJP/iqd8u4LvOSM43nNLt92/wC+jQAz7FF/fuP/AAIk/wDiqPsUX9+4/wDAiT/4qn7f
+dv8Avo0i7WGVckdOHNADfsUX9+4/8CJP/iqPsUX9+4/8CJP/AIqn7fdv++jSOMIxDNkD+8aAG/Yo
+v79x/wCBEn/xVH2KL+/cf+BEn/xVWagQZRSWbJH940AN+xRf37j/AMCJP/iqPsUX9+4/8CJP/iqf
+t92/76NMleKFQ0svlgnALSY5/OgA+xRf37j/AMCJP/iqPsUX9+4/8CJP/iqeACMhm/76NG33b/vo
+0AM+xRf37j/wIk/+Ko+xRf37j/wIk/8Aiqft92/76NG33b/vo0AcBRRRQAUUUUAFFFFABRRRQB2u
+g/8AIGt/of5mr0v+qf8A3TVHQf8AkDW/0P8AM1ekBMbAdSDQA2ik+b/nm35j/Gj5v+ebfmP8aAKs
+80UN9E00iRgxsAWYDutQi7bzCwlL/fLRKAdqgHBHfnj25rQ+b/nm35j/ABo+b/nm35j/ABoAyory
+Q7le5Xy8rmUMrbAc99oHUAdD1q7p5zaA7t3zv83r8xqx83/PNvzH+NHzf882/Mf40ALTZP8AVt9D
+S/N/zzb8x/jSMHKkBDyPUf40ATVDH/q1+gqaoVDhQCh4HqP8aAHVTvXSORHM8cMgUhTIMqQcZHbn
+j1q383/PNvzH+NHzf882/Mf40AZZu3E0KoRCPkUwkgdcdBtzjn1HSnvcXIjlw2WhGxiRjJJ+907L
+z+NaPzf882/Mf40fN/zzb8x/jQBXsJJJISZJEkw2AytuyPrgA/gKs0nzf882/Mf40fN/zzb8x/jQ
+B5/RRRQAUUUUAFFFFABRRRQB2ug/8ga3+h/ma0Kw9Nlvks1jtYY3jjJXLHn19R61a87Vv+fWL8//
+ALKp5kRzrsaVFZvnat/z6xfn/wDZUedq3/PrF+f/ANlRzeQc/kaVFZvnat/z6xfn/wDZUedq3/Pr
+F+f/ANlRzeQc/kaVFZvnat/z6xfn/wDZUedq3/PrF+f/ANlRzeQc/kaVFZvnat/z6xfn/wDZU6zu
+7mW8e3uEjQqu47fw9/ejmDnRoUUnPqPyo59R+VUWLRSc+o/Kjn1H5UALRSc+o/Kjn1H5UALRSc+o
+/Kjn1H5UAed0UUUAFFFFABRRRQAUUUUAdfpZkGlTmE/vAxK/XAqxJdOx3xNiMeWOg5LMM/of1qPQ
+v+PJ/wDrof5CrSWUUcJiUttMgfrzkEED6cAfSphsiIfCirb3Uj3YUXHmMZXVocL8ijODwMjoOvrV
+yS4CzCJI3kfALbcfKD3OSPenQxLCrKpJBYtz6k5pslvumEqSPG2MNtx8w9DkH3/OqLGLeI0u0Ryb
+SxQSYG0sOo657HtSG/iEKS7X2vE0o4GcDGfx5pyWaLLuDuVDFxGSNoY9T0z3PfvUY06PaVMspXY0
+aqSMKp9OPbvQPqMm1FljYx28m8FPlYDlWOM9auRyeZuyjoVOPmHXiopbOOUsSzgsqrkY42nIPT1q
+WOPy92Xd9xz8x6cdqBEVq8rPOsrhykmBhcADaD/Ws53ca7IkTbGlAXdjO3gEn68VrJEqPIwJzI24
+5+gH9KzPJWbXLhWJUhAVZeqn5eRUy6ET6Fk3DWjSJM7zKoUq20buTjHGB1oa7Z3iVVeI+d5cisBn
+7pPbI9Kk+xoVYPJI7MVLOxGTtOQOBjH4U42kZm8zLZ8wSde+3b/KqLIBqKLEp2TyARCRmwvCnPJ5
+Hp2p7ajALsW2cuSBncvBPTjOT+ApVsIliaMM+GiEJ5HQZ/XmnrahJjJHLIgbBZBghiBjuM9PSgCe
+iiigAooooA86ooooAKKKKACiiigAooooAsfbJP7q/lR9sk/ur+VV6Knkj2I5I9ix9sk/ur+VH2yT
++6v5VXoo5I9g5I9ix9sk/ur+VdXBottJBHIzy5ZQTgjuPpXGV6Jaf8ecP/XNf5UckewckexR/sK1
+/wCek35j/Cj+wrX/AJ6TfmP8KuCThcvJlgOicc++KZZ3EkryxTJteMjn1Bz/AIU/ZrsHJHsVv7Ct
+f+ek35j/AApyaNBG2UmuFPTKvj+Qq3dTm3jMnkySKAS2zbwPxIoFzGAnn4t2c4VJGUE/TBNJRQ1C
+K6EH9mL/AM/d3/3+NH9mL/z93f8A3+NWmmiUEtKgAO0ksOD6U22uYrqESwuGXocEHB/CqKK/9mL/
+AM/d3/3+NH9mL/z93f8A3+NT291HcfdDL8iv83oen8qZ9uj8suqO3yhgBj5gTgY5oAj/ALMX/n7u
+/wDv8aP7MX/n7u/+/wAasQTiUspjeN16o+MjPToSKd58XneT5qebjOzcN2PpQBV/sxf+fu7/AO/x
+o/sxf+fu7/7/ABqxHc28qM0c8bqn3irghfrTnmiQ4eRFPXBYCjYDzmiiigAooooAKKKKACiiigAo
+oooAKKKKACvRLT/jzh/65r/KvO69EtP+POH/AK5r/KgCjKodV/1edo+8Vz091NSaf/x8zdOEjHH4
+1ZNpbE5NvCSf9gU+OGKHPlRImeu1QM1TldWJS1G3aNJaSogyzIQBVS8t5nuWZfPMckYQiIx8dc53
+fXtWhRUlFLyJPtwm8vKA7cEjJ4+//T1xU1krpbiORChQkckHPuMVPRQBUvYZXZGgHLAxuc4wp7/h
+Tbi2diyxAquxFUgjjDZ7+gq7RQBFBAItxLvI7fed8ZPp0AFVTDMYJrbycFi5E2RtOc498846Vfoo
+AoSQy3IkPkGDMDRgMQck9OhPA/rVa9hvbmVXjtNoCAEPIAc8+ma2KKmUVJWY02tUebUUUVQgoooo
+AKKKKACiiigAooooAKKKKACvRLT/AI84f+ua/wAq87r0S0/484f+ua/yoAijuHacrujYbipUD5lA
+7nn/ADmnvdJ5TmM5ZVLDKkA49PX8KX7P0IbBDE5x2PUUz7KzR7HlBAQquFxjIxzzz+lLUCUzxhwp
+Jz9DjPpnpTw6mMOMlSMjA7VB9lAnMg8s5OfmjywPsc1OoIUBjuIHJxjNMCtHqET26yssi7v4RGxP
+5Yzj36VKLqEnCvuOcYAJ7Z/l3qpJppdY9zQOY8hfNh3DafbPXjr+lTx2hS4E4dQwGzATA2dgBn15
+zQA+0uBdQLKqsuezKR/MVNUVtE0MXls4YA/KQuOPfmpaACiiigAooooA82ooooAKKKKACiiigAoo
+ooAKKKKACiiigAr0S0/484f+ua/yrzuvRLT/AI84f+ua/wAqAFE2X2qjsAcFhjAP86kqCPzYwY/K
+3ckh8jGCc896qeS6I5aMqGKZX5Rk7u23+tK4GlRVFrclG225ALZWPCkdMcjOPyq3EpXdlApJ5wcg
+8CgB9FZstvO+pCZYipVuJAEwVx3P3ic9ulCWzCzZBZ7JMr5pyv7/AAeec5OeeuOtMDSorLurQyxw
+hLWRIVDAwoIsqc8HDZX16HPNKbVhLJiCRg0e1pG2bzwBhWz+hGKAL88whjZ2RiqqWJGOMfjSyyrE
+gdgSCyrx7kD+tZ32WZrcqtusf7mVFVQq8nGMgHGTg9P0pwtHyxitvJG6PcNw+chwS3B9O55NMDSo
+rOtbR0v2lkWXflv3n7vawPQZ+96cH0rRpAebUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAV6Jaf8ec
+P/XNf5V53Xolp/x5w/8AXNf5UAO8+LcV81Ny9RuGRTyAw5AI681TIf7Ncksuz58Dbz375/pSPO/2
+oRpJgZ2lSRkcdQMfrmlcC7RVTz5DEXzsC4Vjjoc/MfwoEjsVVJiyl8CQAHI2k/Si4FuimRHKZ37+
+TzjHes5JLpoEY3TZe383hF4IxwOOnPP6YpgalFZpvSk0vmTlsR7gkRU7BgckEZB/SoVvpfs7BrpN
+3mBVmEq7emcFtmPXtQBsUVDZSNNZxSP95lBP1qagAooooA82ooooAKKKKACiiigAooooAKKKKACi
+iigAr0S0/wCPOH/rmv8AKvO69EtP+POH/rmv8qAJaKjtySrZJPzsOfrUlABRRUSkvJKjE4UjGDjt
+QBLRRRQAUVBesy23ysV3Oqkg4OCwB/nUcMQkjlhZ5dscuARIwbGAcbs57+tAFuiqDGRtOR/OkBVh
+nB+982OT1q/QAUVSeIRX0ZR5eUdyDKxBIx2Jx3qNLbzIYpDcXAZ0DNiU4JPt2/Ck5KKuxpN7H//Z
+			</helperscreenshot>
+			<matchname>
+				Text
+			</matchname>
+			<matchvalue>
+				VIP count: 1
+			</matchvalue>
+		</validationitem>
+		<loggingrecorditem
+		action="Screenshot"
+		category="User"
+		enabled="True"
+		message=""
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="7bfea0e1-e4a8-4d36-a041-fd94c0a7a29a">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="39a26cd8-c6e3-4b2c-9f0d-129eb8b5986c"
+			sourcename="RepositoryEditor">
+				<element
+				capabilities="accessible"
+				dontcache="False"
+				enabled="True"
+				flavor="msaa"
+				hasfocus="False"
+				index="0"
+				prefcap="text"
+				rect="821,700,70,17"
+				role="text"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="accessiblerole"
+					type="System.Windows.Forms.AccessibleRole, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						None
+					</attribute>
+					<attribute
+					name="accessiblestate"
+					type="System.Windows.Forms.AccessibleStates, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						None
+					</attribute>
+				</element>
+				<path>
+					/form[@controlname='formVipApplication']/?/?/text[@accessiblename='VIP count: 1']
+				</path>
+			</info>
+		</loggingrecorditem>
+	</recorditems>
+	<repository
+	id="4e71b7a2-d717-43d8-9aa0-07acc9bdd69e"
+	name="Nike_demoRepository"
+	relativepath="Nike_demoRepository.rxrep">
+		<codegen
+		classname="Nike_demoRepository"
+		namespace="Nike_demo">
+		</codegen>
+		<rootfolder
+		id="e46fe284-f4d4-44ac-aa69-2d39149fd748"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		ValidateOneUser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

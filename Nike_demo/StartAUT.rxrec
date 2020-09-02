@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="4aa1a26a-179c-484e-b854-0fe6c9a876ad"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="StartAUT"
+	namespace="Nike_demo">
+	</codegen>
+	<variables>
+		<var
+		id="a6a0aa16-4331-4121-bd33-b4b0c11294f4"
+		name="StartAutProcessIDVar">
+		</var>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ReturnVariable"
+				variable="StartAutProcessIDVar">
+				</binding>
+			</bindings>
+			<filename>
+				C:\Users\jbranham\Desktop\VipV1.exe
+			</filename>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="4e71b7a2-d717-43d8-9aa0-07acc9bdd69e"
+	name="Nike_demoRepository"
+	relativepath="Nike_demoRepository.rxrep">
+		<codegen
+		classname="Nike_demoRepository"
+		namespace="Nike_demo">
+		</codegen>
+		<rootfolder
+		id="e46fe284-f4d4-44ac-aa69-2d39149fd748"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		StartAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

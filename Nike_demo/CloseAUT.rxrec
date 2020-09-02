@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="b8a15ee6-bd2c-42aa-8491-b0d681e795c5"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseAUT"
+	namespace="Nike_demo">
+	</codegen>
+	<variables>
+		<var
+		id="305b7bfe-44da-4aec-8dd8-5cc01cfae636"
+		name="CloseAutProcessIDVar">
+			-1
+		</var>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="500ms"
+		method="CloseWindowByProcessID"
+		optional="False"
+		searchpropertyid="fcff68fd-2dcc-4a66-82e8-08eb8f439c24">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ProcessID"
+				variable="CloseAutProcessIDVar">
+				</binding>
+			</bindings>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="4e71b7a2-d717-43d8-9aa0-07acc9bdd69e"
+	name="Nike_demoRepository"
+	relativepath="Nike_demoRepository.rxrep">
+		<codegen
+		classname="Nike_demoRepository"
+		namespace="Nike_demo">
+		</codegen>
+		<rootfolder
+		id="e46fe284-f4d4-44ac-aa69-2d39149fd748"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

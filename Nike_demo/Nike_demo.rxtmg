@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="Nike_demo"
+      id="559bb8ff-0826-4d96-94c2-14ebc0f1427e"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="Nike_demo"
+      id="559bb8ff-0826-4d96-94c2-14ebc0f1427e"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
